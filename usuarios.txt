@@ -1,0 +1,15 @@
+VERSIÓN PHP
+para entrar se ingresa con correo electronico y contraseña
+
+|NOMBRE       |FECHA NACIMIENTO|CORREO	      |CONTRASEÑA
+
+|carlos	      |1998/01/05      |carlos@mail.com  |123456
+
+|raul |1992/08/10      |raul@mail.com|123456
+
+|ana |1998/11/09      |ana@mail.com|123456
+
+
+|CORREO	      	 |CONTRASEÑA
+
+|crmm@dominio.com|123456
